@@ -1,0 +1,65 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H08,Total expenditure,Financial performance,"2,018",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H09,Interest and donations,Financial performance,217,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H10,Indirect taxes,Financial performance,4,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H11,Depreciation,Financial performance,48,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H12,Salaries and wages paid,Financial performance,635,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,055",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H20,Non-operating expenses,Financial performance,59,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H21,Opening stocks,Financial performance,15,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H22,Closing stocks,Financial performance,15,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H23,Surplus before income tax,Financial performance,371,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H24,Total assets,Financial position,"7,119",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H25,Current assets,Financial position,"2,516",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,259",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H27,Additions to fixed assets,Financial position,47,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H28,Disposals of fixed assets,Financial position,32,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H29,Other assets,Financial position,"3,344",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,119",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"6,273",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H32,Current liabilities,Financial position,797,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars (millions),H33,Other liabilities,Financial position,49,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars,H34,Total income per employee count,Financial ratios,"174,700",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Dollars,H35,Surplus per employee count,Financial ratios,"27,200",ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Percentage,H36,Current ratio,Financial ratios,316,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Percentage,H37,Quick ratio,Financial ratios,314,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Percentage,H39,Return on equity,Financial ratios,6,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Percentage,H40,Return on total assets,Financial ratios,5,ANZSIC06 group S955
+2013,Level 4,RS214,"Civil, Professional and Other Interest Groups",Percentage,H41,Liabilities structure,Financial ratios,88,ANZSIC06 group S955
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H01,Total income,Financial performance,"36,411","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"2,808","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"33,253","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,177,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"35,502","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,438,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,82,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H11,Depreciation,Financial performance,820,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"3,894","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,8,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"1,679","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,"28,496","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,93,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,"3,722","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,"4,041","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,227","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H24,Total assets,Financial position,"23,102","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H25,Current assets,Financial position,"9,312","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"8,357","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,339","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,375,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H29,Other assets,Financial position,"5,434","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"23,102","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"10,670","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"10,212","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars (millions),H33,Other liabilities,Financial position,"2,220","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"523,700","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"17,700","ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H36,Current ratio,Financial ratios,91,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H37,Quick ratio,Financial ratios,52,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,40,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H39,Return on equity,Financial ratios,12,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H40,Return on total assets,Financial ratios,5,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H41,Liabilities structure,Financial ratios,46,"ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
